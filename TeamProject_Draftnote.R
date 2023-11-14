@@ -6,7 +6,7 @@ library(readr)
 geo3 <- read.csv("/Users/Ryu Seung Gwon/data/geo/geo3.csv", header = T)
 geo2 <- read.csv("/Users/Ryu Seung Gwon/data/geo/geo2.csv", header = T)
 geo1 <- read.csv("/Users/Ryu Seung Gwon/data/geo/geo1.csv", header = T)
-
+dfdfdjbfdjfjsdfjshdfhskdhfksdkfksdhfkshdkfhskdhfksdhfk
 ### Exploratory Data Analysis (EDA)
 
 # [geo1] Check variables
